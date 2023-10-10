@@ -1,4 +1,6 @@
-<h2 align="left">Do Agency is a network of professionals specialized in the digital and IT sector. We develop websites, e-commerce, apps, web apps and smart contracts. We often work white label for larger development companies.</h2>
+<br clear="both">
+
+<h3 align="left">Do Agency is a network of professionals specialized in the digital and IT sector. We develop websites, e-commerce, apps, web apps and smart contracts. We often work white label for larger development companies.</h3>
 
 ###
 
@@ -22,6 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="30" alt="magento logo"  />
 </div>
 
 ###
